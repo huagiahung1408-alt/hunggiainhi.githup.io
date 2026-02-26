@@ -1,1 +1,21 @@
-
+<h1>lịch sinh hoạt hằng tuần</h1>
+<table border ="1"
+<tr>
+<th></th>
+< th> thứ hai</th>
+<th> thứ ba</th>
+<th> thứ tư</th>
+ </tr>
+<tr>
+<td>sáng</td>
+<td>học chính khoá</td>
+<td>học chính khoá</td>
+<td>học chính khoa</td>
+</tr>
+<tr>
+<td>chiêu</td>
+<td>học chính khoá</td>
+<td> học chính khoá</td>
+<td>CLB tin hoc</td>
+</tr>
+</taole>
